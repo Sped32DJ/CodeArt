@@ -6,7 +6,7 @@ opt.number = true
 opt.numberwidth = 2
 opt.relativenumber = true
 
--- True collor support.
+-- True color support.
 opt.termguicolors = true
 
 -- Enable clipboard.
